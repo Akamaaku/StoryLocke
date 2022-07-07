@@ -5,6 +5,7 @@
 |Character| Details |
 |---------|---------|
 |Name:| John Smith |
+|Personality | Based on the nature |
 |Ability:| Pokemon Ability (Direct or indirectly referenced) |
 |Age: | Based on the current level |
 |Special Move 1| example thunderbolt |

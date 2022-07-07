@@ -20,6 +20,8 @@ This will contain the rules and suggestions to properly flesh out the idea of cr
 11. Write you're prologue once you have gotten your starter pokemon
 12. Chapter 1 should set the tone and the hero's journey. What caused the protagonist to start their journey.
 13. The ending is determined after defeating the antagonist.
+14. Encounters on land and water count as separate encounters.
+15. Chapters are separated by important trainer fights in the game. [Examples](#chapter-events) 
 
 ## Genres
 
@@ -32,7 +34,7 @@ This will contain the rules and suggestions to properly flesh out the idea of cr
 7. Romance/Drama
 
 ## Tone
-1. Comedy/Parody/Nonsense/
+1. Comedy/Parody
 2. Thriller/Horror
 3. Action/Adventure
 
@@ -42,3 +44,17 @@ This will contain the rules and suggestions to properly flesh out the idea of cr
 2. Putting it in the day care and hatching it's child
 3. Doing an encounter in the grass nearest to where the hero died
 4. Revived by God via item or pokecenter
+
+## Chapter Events
+Chapters should be separated by important battles in the main story of the pokemon game you are playing.
+- Rival
+- Gym Leaders
+- Elite Four
+- Champion
+- Static battles like Legendaries.
+- Death of a member in the wild or in random trainer battles
+
+## Resources
+
+- For name generation[Random Name Generator](https://www.behindthename.com/random/)
+- For randomizing genres, tone, protagonist replacement options, names, etc [Wheel of Names](https://wheelofnames.com/)
