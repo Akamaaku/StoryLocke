@@ -7,9 +7,9 @@
 |Character| Details |
 |---------|---------|
 |Name:| Eugeneia |
-|Personality | Jolly |
-|Ability:| Psychic Scales (Color Change) |
-|Age: | 7 |
+|Personality | Based on the nature |
+|Ability:| Elemental Adaptation (Color Change) |
+|Age: | 5 |
 |Special Move 1| Psycho Cut |
 |Special Move 2| Grassy Terrain |
 |Special Move 3| Heart Stamp |
