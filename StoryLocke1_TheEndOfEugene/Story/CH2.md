@@ -74,7 +74,7 @@ The two found their way to Eugene's place and found the same burning aesthetic i
 
 "Hahahah" Max laughed before continuing, "You haven't figured it out yet have you. Come fight me and let me jog your memory!"
 
-The two exchanged blows, Eugene unleashing as many Psycho cuts as he can while also maintaining his health with grassy terrain. Unfortunately it didn't seemed to be very effective as he was being hit by flames being thrown at him from Max. Which caused many third degree burns to char his dark skin.
+The two exchanged blows, Eugene unleashing as many Psycho cuts as he can while also maintaining his health with grassy terrain. Unfortunately it didn't seemed to be very effective as he was being hit by flames coming out of Max's arms and mouth. Which caused many third degree burns to char his dark skin.
 
 Utilizing some of the healing herbs he found earlier he was able to alleviate some of the pain. He finally knocked down Max after a few more psycho cuts but something was off. 
 
@@ -86,7 +86,7 @@ The body stood up but it was no longer the young boy. A taller figure with black
 
 "DEMON!!!!!" Varghese yelled as he tried to give enough time for Eugene to recover some stamina. But his help was fruitless as his very punch to the demon's face didn't even warrant him a second look. Launched again by fire, he was again knocked out with barely any breath in his body.
 
-"Varghese! I'll kill you AKA!" As Eugene in his fury threw arm thrust after arm thrust hoping to finish off his long time enemy. \
+"Varghese! I'll kill you AKA!" As Eugene in his fury threw arm thrust after arm thrust hoping to finish off his long time enemy.
 
 As it seem to have a little bit of hope as the Demon Aka was being pushed back, the claw like tail started to turn into a spike before it thrusted through Eugene's heart. "This time no reincarnations. Pursuit!" 
 

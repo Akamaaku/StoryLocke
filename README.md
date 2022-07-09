@@ -21,7 +21,7 @@ This will contain the rules and suggestions to properly flesh out the idea of cr
 12. Chapter 1 should set the tone and the hero's journey. What caused the protagonist to start their journey.
 13. The ending is determined after defeating the antagonist.
 14. Encounters on land and water count as separate encounters.
-15. Chapters are separated by important trainer fights in the game. [Examples](#chapter-events) 
+15. Chapters are separated by important trainer fights in the game. [List of common battles](#chapter-events) of events.
 
 ## Genres
 
@@ -56,5 +56,8 @@ Chapters should be separated by important battles in the main story of the pokem
 
 ## Resources
 
-- For name generation[Random Name Generator](https://www.behindthename.com/random/)
+- For name generation [Random Name Generator](https://www.behindthename.com/random/)
 - For randomizing genres, tone, protagonist replacement options, names, etc [Wheel of Names](https://wheelofnames.com/)
+
+## Words of Encouragement
+- Remember this is a writing exercise that will help you find inspiration for a story. Have fun and don't worry about making a good or bad story. Writing can only be improved by constant work and experience. Hope you all have a good time making stories!

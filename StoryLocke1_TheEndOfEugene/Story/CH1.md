@@ -44,7 +44,7 @@ Eugene started walking towards the town gates with a bit of a limp, a black brui
 
 After getting to the house, his mother glared at him from the window as she looks back and then another figure exited the house. His father Kukui, sighed before placing his hands ontop of Eugene's head.
 
-"Eugene, you're mother is going to get mad again. Probably bit off more than you can chew again... I taught you so you can defend yourself, not to get into fights with everyone who challenges you. I know you hate to lose but you should know your limits." Kukui sighed once more. 
+"Eugene, you're mother is going to get mad again. Probably bit off more than you can chew... again... I taught you so you can defend yourself, not to get into fights with everyone who challenges you. I know you hate to lose, but you should know your limits." Kukui sighed once more. 
 
 "Father, you know me well enough already that I won't run unless I need to. That's why you should teach me some moves that work against Darkians." Eugene replied.
 
@@ -54,7 +54,7 @@ As they talked the bruise on his neck started to disappear.
 
 As Eugene's friend and rival, they tend to spar with each other often.
 
-"Well I guess I can be you're referee. I know you both want to become adventurers, but I don't get why you two cannot just work together. Why did you both to decide to make your own adventuring team is beyond me. But I guess being young you will be a bit headstrong." Kukui said while shaking his head.
+"Well I guess I can be you're referee. I know you both want to become adventurers, but I don't get why you two cannot just form a team together. Why did you both to decide to compete by making your own adventuring team when you graduate is beyond me. But being young and headstrong is normal for your age..." Kukui said while shaking his head.
 
 "Of course they start fighting again when he just gets home." His mother chimes in from the side. "You do know you are only half Psychish and the other half is shapeshifter. Hence why you can get a bit more defense from other races. We still don't konw if how you look now will be what you look like when you're grown. As punishment your hair stay as pigtails until I say so."
 
@@ -70,19 +70,19 @@ The tail of water was heavy as it hit Eugene square in the face. Causing him to 
 
 His father Kukui noticed that he didn't call out the move. `I guess he's started to get better` he mused, `Still he should have tested it out with an attack first to see who was faster.`
 
-Getting the swap didn't save him from the second strike from the tail of water hitting him but he was lucky his body got use to it after the first hit and it didn't do a lot of damage the second time. Eugene was defiitely feeling he was running low on stamina, "Time to end this Max! Psycho Cut" forming a pink blade in the air. 
+Getting his original speed didn't save him from the second strike from the tail of water, but the damage was reduced thanks to his volatile scale ability Eugene was definitely feeling he was running low on stamina, "Time to end this Max! Psycho Cut!" forming a pink blade in the air. 
 
-"I am ready for this too! Baneful Bunker" His green hair grew and protected his body from the strike, but now he was panting. A seven year olds stamina was still low for using moves like this. Then he started to get ready to drum on his belly but was quickly interrupted by another Psycho Cut from Eugene.
+"I am ready for this too! Baneful Bunker" His green hair grew and protected his body from the strike, but now he was panting. A seven year olds stamina was not a good match for such an exhausting move. Then he started to get ready to drum on his belly but was quickly interrupted by another Psycho Cut from Eugene.
 
-"Not fair!" Cried out Max.
+"Not fair!" Cried out Max as he wasn't expecting the move due to Eugene not needing to say out the name.
 
 Sticking out his tongue Eugene sent out another one. 
 
 "Oh crud! Baneful Bunker!" Blocking another one of the strikes he kneeled on the ground exhausted. Then he saw another pink blade coming at him before being tipped over on his back.
 
-"I lost again!" Max cried out lying on the ground.
+"I... lost... again..." Max said in between pants while lying on the ground.
 
-"Phew that was close, you got trickier this time!" Eugene lied in the grass next to Max.
+"Phew that was close, you got trickier this time!" Eugene praised as he walked towards his friend, and lied on the grass beside him. 
 
 Kukui and his wife sighed at the two but then they noticed the grass being illuminated.
 
