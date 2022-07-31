@@ -37,13 +37,14 @@ Differences:
 |------|---------|-------|
 |1. Only 6 pokemon | 1st encounter per area but you have to decide whether to kill it or catch it at that time | Once 6 pokemon are filled no switching |
 |2. Subaru as your starter | Your starter has to be named Subaru and will be the decider if the game resets | He's the main character in RE: Zero duh |
-|3. Reset Points | <li>Each gym counts as a reset point before the Elite four and the only time you can save.</li> <li>Use a save state before each gym as that will be reset point</li>| If Subaru dies in the gym fight you reset to an earlier point until full reset |
+|3. Reset Points | <li>Each gym/trial counts as a reset point before the Elite four and the only time you can save.</li> <li>Use a save state after each gym as that will be reset point</li>| If Subaru dies in the gym fight you reset to an earlier point until full reset |
 |4. Losing Party Members | After losing a party member, you can switch to Subaru and force a reset | You have to make the decision whether to save your friends or not |
 |5. No Legendaries* | No legendaries with bst over 599+ | Just to keep it challenging |
 |6. TMs | You can use TMs but with the caveat of using it right then and there with no knowledge of what it is. | You must decide if you will learn it right away and trash it if no pokemon can learn it |
-|7. Randomizer Settings | Randomize everything | Since the whole goal is to actually right a story I'm forgoing some of the randomizer settings that make trainers harder. |
-|8. Other Rules | Reference the official Ironmon rules first | For the most part follow the Ultimate Ironmon rules unless stated otherwise above |
-|9. Writing the story | <li>Deaths are important and make sure to remember to write out the death scenes.</li> <li>You technically don't have to name your protagonist as Subaru but keep the genre/tone of RE:Zero</li> <li>Chapters should be based off of the Gyms as they are the reset points</li> | Have fun! |
+|7. Reset Lives | After beatinga a gym/trial, you gain one reset life. | When reset lives hits zero the run is over. |
+|9. Randomizer Settings | Randomize everything | Since the whole goal is to actually right a story I'm forgoing some of the randomizer settings that make trainers harder. |
+|10. Other Rules | Reference the official Ironmon rules first | For the most part follow the Ultimate Ironmon rules unless stated otherwise above |
+|11. Writing the story | <li>Deaths are important and make sure to remember to write out the death scenes.</li> <li>You technically don't have to name your protagonist as Subaru but keep the genre/tone of RE:Zero</li> <li>Chapters should be based off of the Gyms as they are the reset points</li> | Have fun! |
 
 ## Genres
 
